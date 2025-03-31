@@ -11,15 +11,18 @@ Database schema:
 
 SQL features used
 
-JOINS:
+i) JOINS:
 
    Used to retrieve detailed information about employee's working hours using joins
-Views :
+   
+ii) Views :
 
    Created employee details view to know number of employees present in each department
-Stored procedures :
+   
+iii) Stored procedures :
 
-  Created a stored procedure to retrieve employees present or not
-Tables:
+ Created a stored procedure to retrieve employees present or not
+ 
+iv) Tables:
 
      Employees, AttendanceRecords, LeaveRequests, Departments
